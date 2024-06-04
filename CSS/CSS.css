@@ -7,6 +7,13 @@
 :root {
     font-size: 16px;
 }
+
+.body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
 p {
     font-family: "Montserrat", sans-serif;
     font-size: 1rem;
