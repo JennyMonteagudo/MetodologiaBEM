@@ -59,9 +59,10 @@ p {
     font-weight: 300;
     font-size: 1rem;
 }
+.header__menu{
 
-.fa-solid {
-    color: black;
+    width: 20px;
+    height: 20px;
 }
 
 .main {
